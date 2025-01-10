@@ -37,4 +37,4 @@ This project demonstrates how to use **Nodemailer** to send emails programmatica
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nodemailer-setup.git
+   git clone [https://github.com/yourusername/nodemailer-setup.git](https://github.com/Mohitpatil16/Nodemailer.git)
